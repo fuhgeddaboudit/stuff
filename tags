@@ -1,0 +1,182 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BeautifulSoup	ipcheck.py	/^from bs4 import BeautifulSoup$/;"	i
+argparse	autocisco.py	/^import argparse$/;"	i
+args	autocisco.py	/^def args():$/;"	f
+argv	google-python-exercises/hello.py	/^from sys import argv$/;"	i
+base64	paramiko_demo.py	/^import base64$/;"	i
+both_ends	google-python-exercises/basic/solution/string1.py	/^def both_ends(s):$/;"	f
+both_ends	google-python-exercises/basic/string1.py	/^def both_ends(s):$/;"	f
+clear_screen	autocisco.py	/^def clear_screen():$/;"	f
+commands	google-python-exercises/copyspecial/copyspecial.py	/^import commands$/;"	i
+commands	google-python-exercises/copyspecial/solution/copyspecial.py	/^import commands$/;"	i
+config_cdp	autocisco.py	/^def config_cdp():$/;"	f
+config_err_dis	autocisco.py	/^def config_err_dis():$/;"	f
+config_non_cdp	autocisco.py	/^def config_non_cdp():$/;"	f
+connect	autocisco.py	/^def connect():$/;"	f
+content	google-python-exercises/babynames/baby1990.html	/^      alt="SSA logo: link to Social Security home page" border="0"><\/a><a name="content"><\/a>$/;"	a
+content	google-python-exercises/babynames/baby1992.html	/^      alt="SSA logo: link to Social Security home page" border="0"><\/a><a name="content"><\/a>$/;"	a
+content	google-python-exercises/babynames/baby1994.html	/^      alt="SSA logo: link to Social Security home page" border="0"><\/a><a name="content"><\/a>$/;"	a
+content	google-python-exercises/babynames/baby1996.html	/^      alt="SSA logo: link to Social Security home page" border="0"><\/a><a name="content"><\/a>$/;"	a
+content	google-python-exercises/babynames/baby1998.html	/^      alt="SSA logo: link to Social Security home page" border="0"><\/a><a name="content"><\/a>$/;"	a
+content	google-python-exercises/babynames/baby2000.html	/^      alt="SSA logo: link to Social Security home page" border="0"><\/a><a name="content"><\/a>$/;"	a
+content	google-python-exercises/babynames/baby2002.html	/^      alt="SSA logo: link to Social Security home page" border="0"><\/a><a name="content"><\/a>$/;"	a
+content	google-python-exercises/babynames/baby2004.html	/^      alt="SSA logo: link to Social Security home page" border="0"><\/a><a name="content"><\/a>$/;"	a
+content	google-python-exercises/babynames/baby2006.html	/^      alt="SSA logo: link to Social Security home page" border="0"><\/a><a name="content"><\/a>$/;"	a
+copy_to	google-python-exercises/copyspecial/solution/copyspecial.py	/^def copy_to(paths, to_dir):$/;"	f
+creds	autocisco.py	/^def creds():$/;"	f
+crypt	crypt_ex.py	/^import crypt$/;"	i
+csv	create_csv.py	/^import csv$/;"	i
+csv	read_file.py	/^import csv$/;"	i
+default_list	autocisco.py	/^def default_list(item):$/;"	f
+donuts	google-python-exercises/basic/solution/string1.py	/^def donuts(count):$/;"	f
+donuts	google-python-exercises/basic/string1.py	/^def donuts(count):$/;"	f
+download_images	google-python-exercises/logpuzzle/logpuzzle.py	/^def download_images(img_urls, dest_dir):$/;"	f
+download_images	google-python-exercises/logpuzzle/solution/logpuzzle.py	/^def download_images(img_urls, dest_dir):$/;"	f
+end_write	autocisco.py	/^def end_write():$/;"	f
+exec_menu	autocisco.py	/^def exec_menu(menu_actions, menu_return, choice):$/;"	f
+extract_names	google-python-exercises/babynames/babynames.py	/^def extract_names(filename):$/;"	f
+extract_names	google-python-exercises/babynames/solution/babynames.py	/^def extract_names(filename):$/;"	f
+fieldnames	create_csv.py	/^    fieldnames = ['ip', 'host']$/;"	v
+fieldnames	create_csv.py	/^    fieldnames = ['ip','mac']$/;"	v
+fieldnames	create_csv.py	/^    fieldnames = ['mac address', 'switchport']$/;"	v
+fix_start	google-python-exercises/basic/solution/string1.py	/^def fix_start(s):$/;"	f
+fix_start	google-python-exercises/basic/string1.py	/^def fix_start(s):$/;"	f
+front_back	google-python-exercises/basic/solution/string2.py	/^def front_back(a, b):$/;"	f
+front_back	google-python-exercises/basic/string2.py	/^def front_back(a, b):$/;"	f
+front_x	google-python-exercises/basic/list1.py	/^def front_x(words):$/;"	f
+front_x	google-python-exercises/basic/solution/list1.py	/^def front_x(words):$/;"	f
+get_count	google-python-exercises/basic/solution/wordcount.py	/^def get_count(word_count_tuple):$/;"	f
+get_int_and_cdp	autocisco.py	/^def get_int_and_cdp():$/;"	f
+get_special_paths	google-python-exercises/copyspecial/solution/copyspecial.py	/^def get_special_paths(dirname):$/;"	f
+getpass	autocisco.py	/^import getpass$/;"	i
+hello	crypt_ex.py	/^def hello():$/;"	f
+host_date	fabfile.py	/^def host_date():$/;"	f
+host_type	fabfile.py	/^def host_type():$/;"	f
+host_writer	create_csv.py	/^    host_writer = csv.DictWriter(host_csvfile, fieldnames=fieldnames)$/;"	v
+hostname	SshShell.py	/^    hostname="10.1.10.1",$/;"	v
+html	ipcheck.py	/^html = r.text$/;"	v
+in_cdp_and_int	autocisco.py	/^def in_cdp_and_int():$/;"	f
+in_int_not_cdp	autocisco.py	/^def in_int_not_cdp():$/;"	f
+key	paramiko_demo.py	/^key = paramiko.RSAKey(data=base64.b64decode(b'AAA$/;"	v
+last	google-python-exercises/basic/solution/list1.py	/^def last(a):$/;"	f
+linear_merge	google-python-exercises/basic/list2.py	/^def linear_merge(list1, list2):$/;"	f
+linear_merge	google-python-exercises/basic/solution/list2.py	/^def linear_merge(list1, list2):$/;"	f
+main	crypt_ex.py	/^def main():$/;"	f
+main	google-python-exercises/babynames/babynames.py	/^def main():$/;"	f
+main	google-python-exercises/babynames/solution/babynames.py	/^def main():$/;"	f
+main	google-python-exercises/basic/list1.py	/^def main():$/;"	f
+main	google-python-exercises/basic/list2.py	/^def main():$/;"	f
+main	google-python-exercises/basic/mimic.py	/^def main():$/;"	f
+main	google-python-exercises/basic/solution/list1.py	/^def main():$/;"	f
+main	google-python-exercises/basic/solution/list2.py	/^def main():$/;"	f
+main	google-python-exercises/basic/solution/mimic.py	/^def main():$/;"	f
+main	google-python-exercises/basic/solution/string1.py	/^def main():$/;"	f
+main	google-python-exercises/basic/solution/string2.py	/^def main():$/;"	f
+main	google-python-exercises/basic/solution/wordcount.py	/^def main():$/;"	f
+main	google-python-exercises/basic/string1.py	/^def main():$/;"	f
+main	google-python-exercises/basic/string2.py	/^def main():$/;"	f
+main	google-python-exercises/basic/wordcount.py	/^def main():$/;"	f
+main	google-python-exercises/copyspecial/copyspecial.py	/^def main():$/;"	f
+main	google-python-exercises/copyspecial/solution/copyspecial.py	/^def main():$/;"	f
+main	google-python-exercises/logpuzzle/logpuzzle.py	/^def main():$/;"	f
+main	google-python-exercises/logpuzzle/solution/logpuzzle.py	/^def main():$/;"	f
+main_menu	autocisco.py	/^def main_menu():$/;"	f
+man_config_port	autocisco.py	/^def man_config_port():$/;"	f
+match_ends	google-python-exercises/basic/list1.py	/^def match_ends(words):$/;"	f
+match_ends	google-python-exercises/basic/solution/list1.py	/^def match_ends(words):$/;"	f
+mimic_dict	google-python-exercises/basic/mimic.py	/^def mimic_dict(filename):$/;"	f
+mimic_dict	google-python-exercises/basic/solution/mimic.py	/^def mimic_dict(filename):$/;"	f
+mix_up	google-python-exercises/basic/solution/string1.py	/^def mix_up(a, b):$/;"	f
+mix_up	google-python-exercises/basic/string1.py	/^def mix_up(a, b):$/;"	f
+not_bad	google-python-exercises/basic/solution/string2.py	/^def not_bad(s):$/;"	f
+not_bad	google-python-exercises/basic/string2.py	/^def not_bad(s):$/;"	f
+os	autocisco.py	/^import os$/;"	i
+os	google-python-exercises/copyspecial/copyspecial.py	/^import os$/;"	i
+os	google-python-exercises/copyspecial/solution/copyspecial.py	/^import os$/;"	i
+os	google-python-exercises/logpuzzle/logpuzzle.py	/^import os$/;"	i
+os	google-python-exercises/logpuzzle/solution/logpuzzle.py	/^import os$/;"	i
+paramiko	autocisco.py	/^import paramiko$/;"	i
+paramiko	paramiko_demo.py	/^import paramiko$/;"	i
+parse_cdp	autocisco.py	/^def parse_cdp():$/;"	f
+parse_int	autocisco.py	/^def parse_int():$/;"	f
+password	SshShell.py	/^    password="cisco"$/;"	v
+press_return	autocisco.py	/^def press_return():$/;"	f
+print_mimic	google-python-exercises/basic/mimic.py	/^def print_mimic(mimic_dict, word):$/;"	f
+print_mimic	google-python-exercises/basic/solution/mimic.py	/^def print_mimic(mimic_dict, word):$/;"	f
+print_top	google-python-exercises/basic/solution/wordcount.py	/^def print_top(filename):$/;"	f
+print_words	google-python-exercises/basic/solution/wordcount.py	/^def print_words(filename):$/;"	f
+prog_exit	autocisco.py	/^def prog_exit():$/;"	f
+r	ipcheck.py	/^r = requests.get('http:\/\/ipchicken.com')$/;"	v
+random	create_csv.py	/^import random$/;"	i
+random	google-python-exercises/basic/mimic.py	/^import random$/;"	i
+random	google-python-exercises/basic/solution/mimic.py	/^import random$/;"	i
+random	macgen.py	/^import random$/;"	i
+randomMAC	create_csv.py	/^def randomMAC():$/;"	f
+randomMAC	macgen.py	/^def randomMAC():$/;"	f
+re	autocisco.py	/^import re$/;"	i
+re	google-python-exercises/babynames/babynames.py	/^import re$/;"	i
+re	google-python-exercises/babynames/solution/babynames.py	/^import re$/;"	i
+re	google-python-exercises/copyspecial/copyspecial.py	/^import re$/;"	i
+re	google-python-exercises/copyspecial/solution/copyspecial.py	/^import re$/;"	i
+re	google-python-exercises/logpuzzle/logpuzzle.py	/^import re$/;"	i
+re	google-python-exercises/logpuzzle/solution/logpuzzle.py	/^import re$/;"	i
+read_urls	google-python-exercises/logpuzzle/logpuzzle.py	/^def read_urls(filename):$/;"	f
+read_urls	google-python-exercises/logpuzzle/solution/logpuzzle.py	/^def read_urls(filename):$/;"	f
+reader	read_file.py	/^    reader = csv.DictReader(f, fieldnames=('ip','host'))$/;"	v
+remove_adjacent	google-python-exercises/basic/list2.py	/^def remove_adjacent(nums):$/;"	f
+remove_adjacent	google-python-exercises/basic/solution/list2.py	/^def remove_adjacent(nums):$/;"	f
+requests	ipcheck.py	/^import requests$/;"	i
+result	SshShell.py	/^    result = shell.run(["echo","sh run"])$/;"	v
+run	fabfile.py	/^from fabric.api import run$/;"	i
+select_vlans	autocisco.py	/^def select_vlans():$/;"	f
+sh_cdp	autocisco.py	/^def sh_cdp():$/;"	f
+sh_cmd_outputs	autocisco.py	/^def sh_cmd_outputs():$/;"	f
+sh_config_outputs	autocisco.py	/^def sh_config_outputs():$/;"	f
+sh_err_dis	autocisco.py	/^def sh_err_dis():$/;"	f
+sh_host_list	autocisco.py	/^def sh_host_list():$/;"	f
+sh_int_sts	autocisco.py	/^def sh_int_sts():$/;"	f
+shell	SshShell.py	/^shell = spur.SshShell($/;"	v
+shutil	google-python-exercises/copyspecial/copyspecial.py	/^import shutil$/;"	i
+shutil	google-python-exercises/copyspecial/solution/copyspecial.py	/^import shutil$/;"	i
+socket	autocisco.py	/^import socket$/;"	i
+sort_last	google-python-exercises/basic/list1.py	/^def sort_last(tuples):$/;"	f
+sort_last	google-python-exercises/basic/solution/list1.py	/^def sort_last(tuples):$/;"	f
+sortkey_natural	autocisco.py	/^def sortkey_natural(s):$/;"	f
+soup	ipcheck.py	/^soup = BeautifulSoup(html, 'html.parser')$/;"	v
+spur	SshShell.py	/^import spur$/;"	i
+sw_writer	create_csv.py	/^    sw_writer = csv.DictWriter(csvfile, fieldnames=fieldnames)$/;"	v
+sys	autocisco.py	/^import sys$/;"	i
+sys	google-python-exercises/babynames/babynames.py	/^import sys$/;"	i
+sys	google-python-exercises/babynames/solution/babynames.py	/^import sys$/;"	i
+sys	google-python-exercises/basic/mimic.py	/^import sys$/;"	i
+sys	google-python-exercises/basic/solution/mimic.py	/^import sys$/;"	i
+sys	google-python-exercises/basic/solution/wordcount.py	/^import sys$/;"	i
+sys	google-python-exercises/basic/wordcount.py	/^import sys$/;"	i
+sys	google-python-exercises/copyspecial/copyspecial.py	/^import sys$/;"	i
+sys	google-python-exercises/copyspecial/solution/copyspecial.py	/^import sys$/;"	i
+sys	google-python-exercises/logpuzzle/logpuzzle.py	/^import sys$/;"	i
+sys	google-python-exercises/logpuzzle/solution/logpuzzle.py	/^import sys$/;"	i
+test	google-python-exercises/basic/list1.py	/^def test(got, expected):$/;"	f
+test	google-python-exercises/basic/list2.py	/^def test(got, expected):$/;"	f
+test	google-python-exercises/basic/solution/list1.py	/^def test(got, expected):$/;"	f
+test	google-python-exercises/basic/solution/list2.py	/^def test(got, expected):$/;"	f
+test	google-python-exercises/basic/solution/string1.py	/^def test(got, expected):$/;"	f
+test	google-python-exercises/basic/solution/string2.py	/^def test(got, expected):$/;"	f
+test	google-python-exercises/basic/string1.py	/^def test(got, expected):$/;"	f
+test	google-python-exercises/basic/string2.py	/^def test(got, expected):$/;"	f
+testPass	crypt_ex.py	/^def testPass(cryptPass):$/;"	f
+time	autocisco.py	/^import time$/;"	i
+url_sort_key	google-python-exercises/logpuzzle/solution/logpuzzle.py	/^def url_sort_key(url):$/;"	f
+urllib	google-python-exercises/logpuzzle/logpuzzle.py	/^import urllib$/;"	i
+urllib	google-python-exercises/logpuzzle/solution/logpuzzle.py	/^import urllib$/;"	i
+username	SshShell.py	/^    username="cisco",$/;"	v
+verbing	google-python-exercises/basic/solution/string2.py	/^def verbing(s):$/;"	f
+verbing	google-python-exercises/basic/string2.py	/^def verbing(s):$/;"	f
+word_count_dict	google-python-exercises/basic/solution/wordcount.py	/^def word_count_dict(filename):$/;"	f
+writer	create_csv.py	/^    writer = csv.DictWriter(mac_csvfile, fieldnames=fieldnames)$/;"	v
+zip_to	google-python-exercises/copyspecial/solution/copyspecial.py	/^def zip_to(paths, zipfile):$/;"	f
